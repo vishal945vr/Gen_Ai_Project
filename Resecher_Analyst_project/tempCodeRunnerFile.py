@@ -1,0 +1,1 @@
+streamlit run c:\Users\vrooo\OneDrive\Desktop\GenAi\Langchain\project.py
